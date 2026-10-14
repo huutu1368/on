@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private var ghichu_347 = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
+        super.onCreate(sa..........vedInstanceState)
         enableEdgeToEdge()
 
         // 1. Khởi tạo binding và gọi setContentView 1 lần duy nhất ở đây
